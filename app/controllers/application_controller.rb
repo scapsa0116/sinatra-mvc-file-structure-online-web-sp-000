@@ -10,6 +10,5 @@ class ApplicationController < Sinatra::Base
   end
    
    
-   def initialize(name)
-   end 
+  
 end
